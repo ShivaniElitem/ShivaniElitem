@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Need to include the following:
+About Me
+Languages and Tools
+Projects
+Interests and Hobbies
+Contact Information
