@@ -21,3 +21,11 @@ Need to include the following:
 - Projects
 - Interests and Hobbies
 - Contact Information
+
+
+We can also include the following:
+- Stats
+- Achievements or Certifications
+- Open Source
+- Blogs
+- TBD_anything u think is a must know for recruiters
