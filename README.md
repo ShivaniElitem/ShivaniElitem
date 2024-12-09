@@ -74,9 +74,7 @@ Explore the code and detailed implementation on the  [GitHub Repository](https:/
 - Recognized for academic excellence in the field of Computer Science.
 
 # 📫 How to Reach Me:
-- Email: shivanielitem@gmail.com
-- LinkedIn: https://www.linkedin.com/in/shivani-elitem/
- 
+- Email: shivanielitem@gmail.com 
 
 # 📊 GitHub Stats: Coming soon!
  
