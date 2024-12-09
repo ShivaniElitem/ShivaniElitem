@@ -29,7 +29,7 @@ Explore the full implementation, analysis, and results on the [GitHub Repository
 
 # 🛠 Tech Stack:
 - Languages: Python, Java, C++, R, Kotlin
-- Data Science: Pandas, NumPy, scikit-learn, TensorFlow, NLP
+- Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, NLP, Matplotlib, Keras, PyTorch, NLTK
 - Web Dev: HTML, CSS, Express.js, Node.js
 - Tools: Jupyter Notebooks, Google Colab, Git, GitHub, VSCode, Android Studio
 - Databases: SQL, MySQL
